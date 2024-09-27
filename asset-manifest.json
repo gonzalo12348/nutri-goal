@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nutri-goal/static/css/main.fd2f81b2.css",
+    "main.js": "/nutri-goal/static/js/main.801ffa62.js",
+    "static/js/453.cda1885f.chunk.js": "/nutri-goal/static/js/453.cda1885f.chunk.js",
+    "index.html": "/nutri-goal/index.html",
+    "main.fd2f81b2.css.map": "/nutri-goal/static/css/main.fd2f81b2.css.map",
+    "main.801ffa62.js.map": "/nutri-goal/static/js/main.801ffa62.js.map",
+    "453.cda1885f.chunk.js.map": "/nutri-goal/static/js/453.cda1885f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2f81b2.css",
+    "static/js/main.801ffa62.js"
+  ]
+}
